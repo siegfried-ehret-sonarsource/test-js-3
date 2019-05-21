@@ -1,0 +1,7 @@
+organization=siegfried-ehret-sonarsource-github
+projectKey=siegfried-ehret-sonarsource_test-js-3
+serverUrl=https://sieg.eu.ngrok.io
+serverVersion=7.8-SNAPSHOT
+dashboardUrl=https://sieg.eu.ngrok.io/dashboard?id=siegfried-ehret-sonarsource_test-js-3
+ceTaskId=AWrZMc2FqO3rmzoP0Sr8
+ceTaskUrl=https://sieg.eu.ngrok.io/api/ce/task?id=AWrZMc2FqO3rmzoP0Sr8
