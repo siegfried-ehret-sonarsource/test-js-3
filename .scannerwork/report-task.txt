@@ -3,5 +3,5 @@ projectKey=siegfried-ehret-sonarsource_test-js-3
 serverUrl=https://sieg.eu.ngrok.io
 serverVersion=7.8-SNAPSHOT
 dashboardUrl=https://sieg.eu.ngrok.io/dashboard?id=siegfried-ehret-sonarsource_test-js-3
-ceTaskId=AWrZaxK0qO3rmzoP0Sr9
-ceTaskUrl=https://sieg.eu.ngrok.io/api/ce/task?id=AWrZaxK0qO3rmzoP0Sr9
+ceTaskId=AWrZc0fiqO3rmzoP0Sr-
+ceTaskUrl=https://sieg.eu.ngrok.io/api/ce/task?id=AWrZc0fiqO3rmzoP0Sr-
